@@ -8,4 +8,4 @@ pip3 install requests,argparse
 
 2.开始使用
 
-python3 ThinkPHPLogs.py -u <URL>
+python3 ThinkPHPLogs.py -u [URL]
